@@ -4,8 +4,9 @@
 
 <h3><b>Degrees and Certificates</b></h3>
 
-- 05/2022 | BAS Cyber Operations in Cyber Engineering [Summa Cum Laude]</li>
-- 05/2022 | Undergraduate Certificate in Cyber Operations </li>
+- Current &emsp; |&emsp; MSCS Cyber Operations Specialization</li>
+- 05/2022 &emsp;|&emsp; BAS Cyber Operations in Cyber Engineering [Summa Cum Laude]</li>
+- 05/2022 &emsp;|&emsp; Undergraduate Certificate in Cyber Operations </li>
 
 
 <h3><b>Projects</b></h3>
