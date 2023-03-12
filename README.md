@@ -30,6 +30,14 @@
   - Language: `C`
   - USLOSS (Unix Software Library for Operating System Simulation) is used to simulate the basic hardware features of a hypothetical computer system. This project includes experimentation with a variety of low-level concepts, including process creation and termination, CPU scheduling, process synchronization and communication via messages and interrupt handlers, inter-process communication primitives, process-control functions, device drivers, and more.
 
+- [CSC718](https://github.com/KieraConway/CSC718)<br>
+  - Language: `C`, `C++`
+  - CSC178 - Operating Systems & Parallel Programming
+
+- [CSC712](https://github.com/KieraConway/CSC712)<br>
+  - Language: `C`, `python` 
+  - CSC172 - Data Structures
+
 
 <!---
 Notes to self:
